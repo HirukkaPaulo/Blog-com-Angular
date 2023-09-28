@@ -24,7 +24,9 @@
   justify-content: center;
   align-items: center;
 }
-
+.small-card__title a{
+  text-decoration: none;
+}
 .small-card_separator{
   margin-top: 20px;
 }
